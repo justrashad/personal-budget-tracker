@@ -59,4 +59,4 @@ const authUser = async (req, res) => {
     }
 };
 
-module.exports = { registerUser, authUser };
+module.exports = { registerUser, authUser }
